@@ -22,4 +22,4 @@ Contoh penggunaan: struc atau class(berisi kumpulan data)
 4. Pemograman Deklaratif
 adalah paradigma pemrograman yang menjabarkan fakta-fakta atau rules dari representatif masalah atau studi kasusnya. 
 Contoh bahasa: Prolog
-Contoh penggunaan: int,char, dll
+Contoh penggunaan: int,char, dll.
